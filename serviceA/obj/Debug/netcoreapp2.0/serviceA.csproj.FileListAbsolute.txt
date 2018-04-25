@@ -1,0 +1,10 @@
+/home/xolisa/XDev/Ass/Wonga/serviceA/bin/Debug/netcoreapp2.0/serviceA.deps.json
+/home/xolisa/XDev/Ass/Wonga/serviceA/bin/Debug/netcoreapp2.0/serviceA.runtimeconfig.json
+/home/xolisa/XDev/Ass/Wonga/serviceA/bin/Debug/netcoreapp2.0/serviceA.runtimeconfig.dev.json
+/home/xolisa/XDev/Ass/Wonga/serviceA/bin/Debug/netcoreapp2.0/serviceA.dll
+/home/xolisa/XDev/Ass/Wonga/serviceA/bin/Debug/netcoreapp2.0/serviceA.pdb
+/home/xolisa/XDev/Ass/Wonga/serviceA/obj/Debug/netcoreapp2.0/serviceA.csproj.CoreCompileInputs.cache
+/home/xolisa/XDev/Ass/Wonga/serviceA/obj/Debug/netcoreapp2.0/serviceA.AssemblyInfoInputs.cache
+/home/xolisa/XDev/Ass/Wonga/serviceA/obj/Debug/netcoreapp2.0/serviceA.AssemblyInfo.cs
+/home/xolisa/XDev/Ass/Wonga/serviceA/obj/Debug/netcoreapp2.0/serviceA.dll
+/home/xolisa/XDev/Ass/Wonga/serviceA/obj/Debug/netcoreapp2.0/serviceA.pdb
